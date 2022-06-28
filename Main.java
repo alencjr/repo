@@ -5,6 +5,6 @@ class Main{
 		System.out.print("hello world!");
 		Scanner in = new Scanner(System.in);
 		String name = in.next();
-		System.out.println(name);		
+		System.out.println(name + "Hello");		
 	} 
 }
